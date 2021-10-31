@@ -4,7 +4,7 @@
 3. Put user-customer's: name and password (save them)
 4. Put secret payload
 5. Get the link to save/share with customer user
-6. Open new window in another browser and user the link
+6. Open new window in another browser and use the link
 7. Use user-customer's creds to get secret payload
 8. User-customer and secret payload are removed from system
 
